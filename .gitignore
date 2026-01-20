@@ -1,0 +1,21 @@
+# ===== Build output =====
+target/
+bin/
+
+# ===== Eclipse =====
+.settings/
+.classpath
+.project
+
+# ===== VS Code =====
+.vscode/
+
+# ===== Compiled files =====
+*.class
+
+# ===== Logs =====
+*.log
+
+# ===== OS junk =====
+.DS_Store
+Thumbs.db
